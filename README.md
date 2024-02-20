@@ -1,1 +1,2 @@
-# Second-Drive-Analytics-using-ml-
+# Second-Drive-Analytics-using-ml
+In this project we are predicting the price of used car which is basically called as second hand. Here we use 4 Machine Learning algorithm that are Linear Regression, XGBoost, LightGBM, Random forest. Here we tried to compare these all four algorithms by predicting the exact suitable value based on provided parameters like type_of_fuel, mileage, torque, horsepower, year, combined_fuel_economy, legroom, etc. According to these provided parameters price of car will be predicted.
